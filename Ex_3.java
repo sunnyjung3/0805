@@ -18,7 +18,7 @@ public class Ex_3 {
 		//힌트 2. 필요하면 더 큰배열을만들어라
 		//힌트 3. 기존의 것을 옮겨라
 		
-		int[] = arr3 = new int[3]; //수정불가
+		int[] arr3 = new int[3]; //수정불가
 		
 		for(int i = 0; i < 3; i++) {
 			arr3[i] = i + 1; //수정불가
